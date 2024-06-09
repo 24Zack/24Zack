@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Learning C++](https://github.com/24Zack/Learning-Cplusplus)
 
-- 🌱 I’m currently learning **C++ **
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **Learning C++**
 
