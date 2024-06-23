@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=24zack" alt="24zack" /></a> </p>
 
-- 🔭 I’m currently working on [Learning C++](https://github.com/24Zack/Learning-Cplusplus)
+- 🔭 I’m currently working on **learning C++**
 
 - 🌱 I’m currently learning **C++ and Python**
 
