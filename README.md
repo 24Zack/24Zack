@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=24zack" alt="24zack" /></a> </p>
 
-- 🔭 I’m currently working on **learning C++**
 
-- 🌱 I’m currently learning **C++ and Python**
-
-- 👯 I’m looking to collaborate on **Learning C++**
 
 - 💬 Ask me about **C**
 
