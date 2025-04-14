@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zack</h1>
+<h1 align="center">Hi 👋, I'm Zack, I like programming for fun</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=24zack&label=Profile%20views&color=0e75b6&style=flat" alt="24zack" /> </p>
