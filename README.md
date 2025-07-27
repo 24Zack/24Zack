@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zack, I like programming for fun</h1>
 
 
-<h2 align="center">My favourite quote: "Uncertainty of life make it worth living"</h2>
+<h2 align="center">Freelance developer</h2>
 
 
 
