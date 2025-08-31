@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zack, I like programming for fun</h1>
+<h1 align="center">Hi 👋, I'm Zack,I like building meaningful projects</h1>
 
 
-<h2 align="center">Freelance developer</h2>
+<h2 align="center">I'm a freelance developer, and I like to learn programming related stuff. Feel free to reach out to me !</h2>
 
 
 
